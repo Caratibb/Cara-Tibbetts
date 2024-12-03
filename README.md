@@ -1,31 +1,40 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey there! 👋 What's up?
 
-###
+## My name is Cara Tibbetts 🌟  
+I'm a **Data Scientist** and **Machine Learning Engineer** from [4Geeks](https://4geeksacademy.com/).  
 
-<p align="left">My name is Cara and I'm a Data scientist and Machine learning Engineer from 4 Geeks.</p>
+### About Me
+- 📚 **Currently Learning:** Python, Data Science, and Machine Learning  
+- 🎯 **Goals:** Enhance my knowledge in machine learning and data analysis  
+- 🎲 **Fun Fact:** I've been pursuing some form of engineering for over **5 years**  
 
-###
+### 🌱 My Values  
+- Lifelong learning 📖  
+- Building meaningful solutions 💡  
+- Exploring creativity through code 🎨  
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🛠️ I Code With  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
-<p align="left">📚 I'm currently learning more about python, data scientist, and machine learning<br>🎯 Goals: increase my knowledge in machine learning and data analysis<br>🎲 Fun fact: I have been doing some kind of engineering or learning engineering for the past 5 years</p>
+---
 
-###
+### 🔗 Connect with Me  
+[![LinkedIn](https://www.linkedin.com/in/cara-tibbetts/)  
+[![GitHub](https://github.com/Caratibb)  
 
-<h2 align="left">I code with</h2>
+---
 
-###
+### 🎨 Projects & Highlights  
+- 🌟 **[Songs for geeks](https://github.com/Four-and-a-Half-Geeks/Spotify-Song-Recommendation): # a sptify recumendation site
+- 🔍 **[API Project](https://github.com/Caratibb/interacting-with-api-python-project-tutorial):** Summary of what you  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-</div>
+---
 
-###
+Thanks for visiting! 🚀 Let's build something amazing together! 🌟
